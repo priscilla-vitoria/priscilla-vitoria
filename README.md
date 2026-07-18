@@ -7,7 +7,7 @@ Conquistar o primeiro estágio.
 
 ## Sobre mim:
 - Estudante do 2º semestre de ADS.
-- Sempre em busca da evolução e por minhas habbilidades em pratica.
+- Sempre em busca da evolução e por minhas habbilidades em prática.
 
 ## Tecnologias:
 - Java.
