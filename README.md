@@ -1,16 +1,20 @@
-## Hi there 👋
+Priscilla Vitória de Magalhães Santos.
 
-<!--
-**priscilla-vitoria/priscilla-vitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UCSal. 
 
-Here are some ideas to get you started:
+## Objetivo:
+Conquistar o primeiro estágio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim:
+- Estudante do 2º semestre de ADS.
+- Sempre em busca da evolução e por minhas habbilidades em pratica.
+
+## Tecnologias:
+- Java.
+- Lógica de Programação.
+- Eclipse IDE.
+
+## Contato:
+
+- E-mail: [priscillavitoriademagalhaessan@gmail.com](mailto:priscillavitoriademagalhaessan@gmail.com)
+- Instagram: [priscilla.dev.rotina](https://www.instagram.com/priscilla.dev.rotina)
